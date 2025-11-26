@@ -1,4 +1,4 @@
-# Docker Cron Python Automation
+# Docker Crontab Python Automation
 
 Automate Python scripts with Docker and cron — a lightweight, portable scheduling solution.
 
